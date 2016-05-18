@@ -1,0 +1,6 @@
+{
+  "name": "Ihnil",
+  "tagline": "Simple tool to optimize \"if\" loops in Python",
+  "body": "### Welcome to IHNIL\r\nIHNIL (I Hate Nested If Loops) is a small, command-line tool for use on target Python documents to evaluate and optimize \"if\" loops.\r\n\r\n### Why IHNIL\r\nNesting multiple `if` loops within one another, without additional aspects such as an `elif` or an `else` or additional lines of code between `if`'s, can be costly, particularly if there are several instances of this and the file is particularly large. This project looks to provide assistance in correcting this error.\r\n\r\n### Credits\r\nThis project was primarily written by @forstmeier under the guidance of @taylormike. The project logo was built using [logomakr](http://logomakr.com/).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
